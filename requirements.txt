@@ -1,0 +1,9 @@
+ultralytics
+torch
+torchvision
+numpy
+PyYAML
+tqdm
+3lc
+3lc-ultralytics
+umap-learn
